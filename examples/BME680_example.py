@@ -1,7 +1,6 @@
 # TinyCircuits Temp/Press/Hum/VOC BME680 Wireling Example
 # Prints values of temperature, VOC, humidity, pressure,
 # and altitude read by the sensor every 2 seconds.
-# Written by Hunter Hykes for TinyCircuits
 # Initialized: 01-21-2020
 # Last Updated: 01-21-2020
 
